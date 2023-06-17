@@ -1,4 +1,4 @@
-# Htu_CatchClassScript
+# Htu_ChooseClassScript
 是否因为土豆服务器根本打不开网页，显示出来课都没了，只得卑微求课，或者含泪买课。
 
 如果人力不行，那就试试代码吧´･ᴗ･`
