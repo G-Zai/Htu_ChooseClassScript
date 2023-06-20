@@ -13,7 +13,7 @@
 打开ifChoose，将复制到的user-agent粘贴到user-agent中
 然后run（回车键），再粘贴cookies（回车），再输入选课页数（回车）
 选择多个课程时，要用逗号隔开（注意逗号是英文输入法的）。
-输入0可以排查课程是否冲突，并且以文档的形式保存到crouse.txt和result.txt中，之后运行writeAll可以将课程和是否冲突写入Excel
+输入0可以排查课程是否冲突，并且以文档的形式保存到crouse.txt和result.txt中，（现在已不需要writeAll，功能已经整合进ifChoose）
 ，选课就输入课程前面的序号。
 
 下面就是等待时间了
